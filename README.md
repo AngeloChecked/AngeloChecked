@@ -7,7 +7,7 @@
 - 🌿 learn useless programming languages from [rosetta](https://rosettacode.org/wiki/FizzBuzz)
 - 💣 open-minded about DevOps and Cloud
 - 🌇 horizontal in front-end related stuff, i’m a very bad at graphics D:
-- 🤔 i don't like bash
+- 🤔 i like regex but not bash
 
 💕 Kotlin 💕 Hakell 💕 Elixir 💕 Rust 
 
