@@ -5,7 +5,7 @@
 - 🔥 tdd
 - 💘 functional programming lover
 - 🌿 learn useless programming languages
-- 💪 open-minded about DevOps movement
+- 💣 open-minded about DevOps and Cloud
 - 🌇 horizontal in front-end related stuff, i’m a very bad at graphics D:
 - 🤔 i don't like bash
 
