@@ -11,6 +11,8 @@
 
 💕 Kotlin 💕 Hakell 💕 Elixir 💕 Rust 
 
+my daily fight: 🤦 Hype cycle 🤯 Overchoice 😳 Information overload
+
 <!--
 **AngeloChecked/AngeloChecked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
