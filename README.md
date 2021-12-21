@@ -13,7 +13,7 @@
 
 daily fight: 🤦 Hype cycle 🤯 Overchoice 😳 Information overload... and
 
-![https://www.youtube.com/watch?v=lKXe3HUG2l4&t=1372](img/clear-efficent-problem-joe.gif)
+![https://www.youtube.com/watch?v=lKXe3HUG2l4&t=1372](img/clear-efficent-problem-joe.png)
 
 <!--
 **AngeloChecked/AngeloChecked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
