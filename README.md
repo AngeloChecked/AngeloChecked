@@ -9,6 +9,8 @@
 - 🌇 horizontal in front-end related stuff, i’m a very bad at graphics D:
 - 🤔 i don't like bash
 
+💕 Kotlin 💕 Hakell 💕 Elixir 💕 Rust 
+
 <!--
 **AngeloChecked/AngeloChecked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
