@@ -1,5 +1,7 @@
 ### What i do
 
+![](https://avatars.githubusercontent.com/u/30749948?v=4)
+
 - ✨ make random stuff
 - 👯 pair programming
 - 🔥 tdd
