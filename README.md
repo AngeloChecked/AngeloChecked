@@ -12,9 +12,9 @@
 💕 Kotlin 💕 Hakell 💕 Elixir 💕 Rust 
 
 daily fight: 🤦 Hype cycle 🤯 Overchoice 😳 impostor syndrome 😵 Information overload... and
-
+<a src="https://www.youtube.com/watch?v=lKXe3HUG2l4&t=1372">
 ![https://www.youtube.com/watch?v=lKXe3HUG2l4&t=1372](img/clear-efficent-problem-joe.png)
-
+<a/>
 <!--
 **AngeloChecked/AngeloChecked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
