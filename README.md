@@ -18,7 +18,7 @@ daily fight: 🤦 Hype cycle 🤯 Overchoice 😳 impostor syndrome 😵 Informa
   
 and more:
 ```
-"Misunderstandings and lethargy perhaps produce more wrong in the world than deceit and malice do. At least the latter two are certainly rarer."
+"Misunderstandings and lethargy perhaps produce more wrong in the world than deceit and malice do. At least the latter two are certainly rarer." -Hanlon's razor
 ```
 <!--
 **AngeloChecked/AngeloChecked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
