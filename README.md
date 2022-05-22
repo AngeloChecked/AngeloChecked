@@ -9,7 +9,7 @@
 - 🌇 horizontal in front-end related stuff, i’m a very bad at graphics D:
 - 🤔 i like regex but not bash
 
-💕 Kotlin 💕 Hakell 💕 Elixir 💕 Rust 
+💕 Kotlin 💕 Haskell 💕 Elixir 💕 Rust 
 
 daily fight: 🤦 Hype cycle 🤯 Overchoice 😳 impostor syndrome 😵 Information overload... and
 <a src="https://www.youtube.com/watch?v=lKXe3HUG2l4&t=1372">
