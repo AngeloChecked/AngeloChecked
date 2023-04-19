@@ -1,5 +1,7 @@
 ### What i do
 
+![angelo ceccato](https://pbs.twimg.com/profile_images/1553676179810525185/NPJ6kDih_400x400.jpg)
+
 - ✨ make random stuff
 - 👯 pair programming
 - 🔥 tdd
@@ -17,19 +19,7 @@ daily fight: 🤦 Hype cycle 🤯 Overchoice 😳 impostor syndrome 😵 Informa
   
 and more:
 ```
-"Misunderstandings and lethargy perhaps produce more wrong in the world than deceit and malice do. At least the latter two are certainly rarer." -Hanlon's razor
+"Misunderstandings and lethargy perhaps produce more wrong in the world than deceit and malice do. 
+At least the latter two are certainly rarer." 
+-Hanlon's razor
 ```
-<!--
-**AngeloChecked/AngeloChecked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
