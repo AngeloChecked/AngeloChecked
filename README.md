@@ -1,6 +1,6 @@
 ### What i do
 
-![angelo ceccato](https://pbs.twimg.com/profile_images/1553676179810525185/NPJ6kDih_400x400.jpg =100x100 )
+<img alt="angelo ceccato" src="https://pbs.twimg.com/profile_images/1553676179810525185/NPJ6kDih_400x400.jpg" width="100" height="100">
 
 - ✨ make random stuff
 - 👯 pair programming
