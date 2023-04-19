@@ -1,7 +1,6 @@
-### What i do
-
 <img alt="angelo ceccato" src="https://pbs.twimg.com/profile_images/1553676179810525185/NPJ6kDih_400x400.jpg" width="200" >
 
+### What i do
 - ✨ make random stuff
 - 👯 pair programming
 - 🔥 tdd
